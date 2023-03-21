@@ -2,9 +2,9 @@
 
 My name is **Denn Sebastian**
 
-- 🌱 I’m currently learning Machine Learning by Bangkit Academy 2022 by Google, GoTo, Traveloka - Machine Learning Path
+- 🌱 Developer passionate in Full-Stack Web Development, Game Development, and Machine Learning Development.
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: I'm an IT student at Multimedia Nusantara University
+- ⚡ Fun fact: I have a youtube channel: https://www.youtube.com/@acrymoore
 
 <p align="left">
 <a href="https://github.com/gilangadhan">
